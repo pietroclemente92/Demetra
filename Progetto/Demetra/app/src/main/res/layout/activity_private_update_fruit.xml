@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="italy.company.pietroclemente92.demetra.PrivateUpdateProductActivity"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:padding="20dp"
+        android:background="#b8d7f4">
+
+        <ImageView
+            android:id="@+id/profile_image"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/icon_shop_vector"
+            android:layout_centerVertical="true"/>
+
+        <TextView
+            android:id="@+id/product_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Name Product"
+            android:textSize="25sp"
+            android:fontFamily="@font/baloo"
+            android:layout_toRightOf="@+id/profile_image"
+            android:layout_centerVertical="true"
+            android:includeFontPadding="false"
+            android:layout_marginLeft="10dp"/>
+
+        <TextView
+            android:id="@+id/username_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Username"
+            android:includeFontPadding="false"
+            android:textSize="14sp"
+            android:layout_toRightOf="@+id/profile_image"
+            android:layout_below="@+id/product_label"
+            android:layout_marginLeft="10dp"/>
+
+        <ImageView
+            android:id="@+id/backBtn"
+            android:layout_width="50dp"
+            android:layout_height="100dp"
+            android:src="@drawable/icon_back_row"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_marginTop="-20dp"/>
+
+        <ImageView
+            android:id="@+id/saveBtn"
+            android:layout_width="50dp"
+            android:layout_height="100dp"
+            android:src="@drawable/icon_save"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="-20dp"/>
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="20dp"
+            android:orientation="vertical">
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/nameInput"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Full Name"
+                android:layout_marginTop="10dp">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/icon_profile"
+                    android:drawablePadding="10dp"
+                    android:text="Name Product"/>
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/priceInput"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Price"
+                android:layout_marginTop="10dp">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/icon_money"
+                    android:drawablePadding="10dp"
+                    android:text="Price Product"/>
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/countInput"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Count"
+                android:layout_marginTop="10dp">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/icon_money"
+                    android:drawablePadding="10dp"
+                    android:text="Count Product"/>
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Inserisci i parametri del prodotto"
+                android:textSize="9pt"
+                android:layout_marginTop="15dp"
+                android:textColor="#000"/>
+            <CheckBox
+                android:id="@+id/pesticide_value"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:textSize="20dp"
+                android:text="  Pesticide"
+                android:layout_marginTop="5dp"/>
+
+            <CheckBox
+                android:id="@+id/km_value"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:textSize="20dp"
+                android:text="  KM0"
+                android:layout_marginTop="5dp"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

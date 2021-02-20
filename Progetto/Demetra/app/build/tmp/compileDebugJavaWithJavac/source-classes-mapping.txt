@@ -1,0 +1,177 @@
+italy/company/pietroclemente92/demetra/helpers/ShopHelperClass.java
+ italy.company.pietroclemente92.demetra.helpers.ShopHelperClass
+italy/company/pietroclemente92/demetra/PrivateRemoveProductActivity.java
+ italy.company.pietroclemente92.demetra.PrivateRemoveProductActivity
+ italy.company.pietroclemente92.demetra.PrivateRemoveProductActivity$1
+ italy.company.pietroclemente92.demetra.PrivateRemoveProductActivity$2
+ italy.company.pietroclemente92.demetra.PrivateRemoveProductActivity$3
+italy/company/pietroclemente92/demetra/UserDashboardActivity.java
+ italy.company.pietroclemente92.demetra.UserDashboardActivity
+ italy.company.pietroclemente92.demetra.UserDashboardActivity$1
+ italy.company.pietroclemente92.demetra.UserDashboardActivity$2
+ italy.company.pietroclemente92.demetra.UserDashboardActivity$3
+ italy.company.pietroclemente92.demetra.UserDashboardActivity$4
+ italy.company.pietroclemente92.demetra.UserDashboardActivity$5
+ italy.company.pietroclemente92.demetra.UserDashboardActivity$6
+ italy.company.pietroclemente92.demetra.UserDashboardActivity$7
+ italy.company.pietroclemente92.demetra.UserDashboardActivity$8
+italy/company/pietroclemente92/demetra/MainActivity.java
+ italy.company.pietroclemente92.demetra.MainActivity
+ italy.company.pietroclemente92.demetra.MainActivity$1
+italy/company/pietroclemente92/demetra/UserSearchShopActivity.java
+ italy.company.pietroclemente92.demetra.UserSearchShopActivity
+ italy.company.pietroclemente92.demetra.UserSearchShopActivity$1
+ italy.company.pietroclemente92.demetra.UserSearchShopActivity$2
+italy/company/pietroclemente92/demetra/adapter/SliderAdapter.java
+ italy.company.pietroclemente92.demetra.adapter.SliderAdapter
+italy/company/pietroclemente92/demetra/PrivateProfileActivity.java
+ italy.company.pietroclemente92.demetra.PrivateProfileActivity
+ italy.company.pietroclemente92.demetra.PrivateProfileActivity$1
+ italy.company.pietroclemente92.demetra.PrivateProfileActivity$2
+ italy.company.pietroclemente92.demetra.PrivateProfileActivity$3
+ italy.company.pietroclemente92.demetra.PrivateProfileActivity$4
+italy/company/pietroclemente92/demetra/PrivateAddProductActivity.java
+ italy.company.pietroclemente92.demetra.PrivateAddProductActivity
+ italy.company.pietroclemente92.demetra.PrivateAddProductActivity$1
+ italy.company.pietroclemente92.demetra.PrivateAddProductActivity$1$1
+ italy.company.pietroclemente92.demetra.PrivateAddProductActivity$1$1$1
+ italy.company.pietroclemente92.demetra.PrivateAddProductActivity$1$1$1$1
+ italy.company.pietroclemente92.demetra.PrivateAddProductActivity$2
+ italy.company.pietroclemente92.demetra.PrivateAddProductActivity$3
+ italy.company.pietroclemente92.demetra.PrivateAddProductActivity$3$1
+ italy.company.pietroclemente92.demetra.PrivateAddProductActivity$3$1$1
+ italy.company.pietroclemente92.demetra.PrivateAddProductActivity$3$1$1$1
+ italy.company.pietroclemente92.demetra.PrivateAddProductActivity$4
+ italy.company.pietroclemente92.demetra.PrivateAddProductActivity$5
+ italy.company.pietroclemente92.demetra.PrivateAddProductActivity$5$1
+ italy.company.pietroclemente92.demetra.PrivateAddProductActivity$5$1$1
+ italy.company.pietroclemente92.demetra.PrivateAddProductActivity$5$1$1$1
+ italy.company.pietroclemente92.demetra.PrivateAddProductActivity$6
+italy/company/pietroclemente92/demetra/SignUpActivity.java
+ italy.company.pietroclemente92.demetra.SignUpActivity
+ italy.company.pietroclemente92.demetra.SignUpActivity$1
+ italy.company.pietroclemente92.demetra.SignUpActivity$2
+ italy.company.pietroclemente92.demetra.SignUpActivity$2$1
+ italy.company.pietroclemente92.demetra.SignUpActivity$2$1$1
+italy/company/pietroclemente92/demetra/UserProductViewActivity.java
+ italy.company.pietroclemente92.demetra.UserProductViewActivity
+ italy.company.pietroclemente92.demetra.UserProductViewActivity$1
+ italy.company.pietroclemente92.demetra.UserProductViewActivity$2
+ italy.company.pietroclemente92.demetra.UserProductViewActivity$3
+italy/company/pietroclemente92/demetra/adapter/UserProductAdapter.java
+ italy.company.pietroclemente92.demetra.adapter.UserProductAdapter
+italy/company/pietroclemente92/demetra/PrivateUpdateProductActivity.java
+ italy.company.pietroclemente92.demetra.PrivateUpdateProductActivity
+ italy.company.pietroclemente92.demetra.PrivateUpdateProductActivity$1
+ italy.company.pietroclemente92.demetra.PrivateUpdateProductActivity$2
+ italy.company.pietroclemente92.demetra.PrivateUpdateProductActivity$3
+ italy.company.pietroclemente92.demetra.PrivateUpdateProductActivity$4
+ italy.company.pietroclemente92.demetra.PrivateUpdateProductActivity$5
+ italy.company.pietroclemente92.demetra.PrivateUpdateProductActivity$6
+ italy.company.pietroclemente92.demetra.PrivateUpdateProductActivity$7
+ italy.company.pietroclemente92.demetra.PrivateUpdateProductActivity$8
+ italy.company.pietroclemente92.demetra.PrivateUpdateProductActivity$9
+italy/company/pietroclemente92/demetra/PrivateCategoriesDashboardActivity.java
+ italy.company.pietroclemente92.demetra.PrivateCategoriesDashboardActivity
+ italy.company.pietroclemente92.demetra.PrivateCategoriesDashboardActivity$1
+ italy.company.pietroclemente92.demetra.PrivateCategoriesDashboardActivity$2
+ italy.company.pietroclemente92.demetra.PrivateCategoriesDashboardActivity$3
+ italy.company.pietroclemente92.demetra.PrivateCategoriesDashboardActivity$4
+italy/company/pietroclemente92/demetra/UserSearchProductActivity.java
+ italy.company.pietroclemente92.demetra.UserSearchProductActivity
+ italy.company.pietroclemente92.demetra.UserSearchProductActivity$1
+ italy.company.pietroclemente92.demetra.UserSearchProductActivity$2
+italy/company/pietroclemente92/demetra/BuildConfig.java
+ italy.company.pietroclemente92.demetra.BuildConfig
+italy/company/pietroclemente92/demetra/ui/gallery/GalleryViewModel.java
+ italy.company.pietroclemente92.demetra.ui.gallery.GalleryViewModel
+italy/company/pietroclemente92/demetra/adapter/MostViewedHelperClass.java
+ italy.company.pietroclemente92.demetra.adapter.MostViewedHelperClass
+italy/company/pietroclemente92/demetra/helpers/ProductHelperClass.java
+ italy.company.pietroclemente92.demetra.helpers.ProductHelperClass
+italy/company/pietroclemente92/demetra/LoginActivity.java
+ italy.company.pietroclemente92.demetra.LoginActivity
+ italy.company.pietroclemente92.demetra.LoginActivity$1
+ italy.company.pietroclemente92.demetra.LoginActivity$2
+ italy.company.pietroclemente92.demetra.LoginActivity$3
+ italy.company.pietroclemente92.demetra.LoginActivity$4
+italy/company/pietroclemente92/demetra/adapter/FeaturedAdapter.java
+ italy.company.pietroclemente92.demetra.adapter.FeaturedAdapter
+ italy.company.pietroclemente92.demetra.adapter.FeaturedAdapter$FeaturedViewHolder
+italy/company/pietroclemente92/demetra/ui/home/HomeViewModel.java
+ italy.company.pietroclemente92.demetra.ui.home.HomeViewModel
+italy/company/pietroclemente92/demetra/helpers/FruitHelperClass.java
+ italy.company.pietroclemente92.demetra.helpers.FruitHelperClass
+italy/company/pietroclemente92/demetra/UserShopViewActivity.java
+ italy.company.pietroclemente92.demetra.UserShopViewActivity
+ italy.company.pietroclemente92.demetra.UserShopViewActivity$1
+ italy.company.pietroclemente92.demetra.UserShopViewActivity$2
+ italy.company.pietroclemente92.demetra.UserShopViewActivity$3
+italy/company/pietroclemente92/demetra/ui/slideshow/SlideshowFragment.java
+ italy.company.pietroclemente92.demetra.ui.slideshow.SlideshowFragment
+ italy.company.pietroclemente92.demetra.ui.slideshow.SlideshowFragment$1
+italy/company/pietroclemente92/demetra/RegisterShopActivity.java
+ italy.company.pietroclemente92.demetra.RegisterShopActivity
+ italy.company.pietroclemente92.demetra.RegisterShopActivity$1
+ italy.company.pietroclemente92.demetra.RegisterShopActivity$1$1
+italy/company/pietroclemente92/demetra/helpers/VegetableHelperClass.java
+ italy.company.pietroclemente92.demetra.helpers.VegetableHelperClass
+italy/company/pietroclemente92/demetra/ui/gallery/GalleryFragment.java
+ italy.company.pietroclemente92.demetra.ui.gallery.GalleryFragment
+ italy.company.pietroclemente92.demetra.ui.gallery.GalleryFragment$1
+italy/company/pietroclemente92/demetra/adapter/UpdateProductAdapter.java
+ italy.company.pietroclemente92.demetra.adapter.UpdateProductAdapter
+italy/company/pietroclemente92/demetra/UserProductListViewActivity.java
+ italy.company.pietroclemente92.demetra.UserProductListViewActivity
+ italy.company.pietroclemente92.demetra.UserProductListViewActivity$1
+ italy.company.pietroclemente92.demetra.UserProductListViewActivity$2
+ italy.company.pietroclemente92.demetra.UserProductListViewActivity$3
+italy/company/pietroclemente92/demetra/helpers/UserHelperClass.java
+ italy.company.pietroclemente92.demetra.helpers.UserHelperClass
+italy/company/pietroclemente92/demetra/OnBoardingShoppingAreaActivity.java
+ italy.company.pietroclemente92.demetra.OnBoardingShoppingAreaActivity
+ italy.company.pietroclemente92.demetra.OnBoardingShoppingAreaActivity$1
+ italy.company.pietroclemente92.demetra.OnBoardingShoppingAreaActivity$1$1
+ italy.company.pietroclemente92.demetra.OnBoardingShoppingAreaActivity$2
+italy/company/pietroclemente92/demetra/PrivateUpdateViewProductActivity.java
+ italy.company.pietroclemente92.demetra.PrivateUpdateViewProductActivity
+ italy.company.pietroclemente92.demetra.PrivateUpdateViewProductActivity$1
+ italy.company.pietroclemente92.demetra.PrivateUpdateViewProductActivity$2
+ italy.company.pietroclemente92.demetra.PrivateUpdateViewProductActivity$3
+italy/company/pietroclemente92/demetra/adapter/MostViewedAdapter.java
+ italy.company.pietroclemente92.demetra.adapter.MostViewedAdapter
+ italy.company.pietroclemente92.demetra.adapter.MostViewedAdapter$MostViewedViewHolder
+italy/company/pietroclemente92/demetra/adapter/CategoriesAdapter.java
+ italy.company.pietroclemente92.demetra.adapter.CategoriesAdapter
+ italy.company.pietroclemente92.demetra.adapter.CategoriesAdapter$AdapterAllCategoriesViewHolder
+italy/company/pietroclemente92/demetra/ui/slideshow/SlideshowViewModel.java
+ italy.company.pietroclemente92.demetra.ui.slideshow.SlideshowViewModel
+italy/company/pietroclemente92/demetra/helpers/CategoriesHelperClass.java
+ italy.company.pietroclemente92.demetra.helpers.CategoriesHelperClass
+italy/company/pietroclemente92/demetra/TestingActivity.java
+ italy.company.pietroclemente92.demetra.TestingActivity
+ italy.company.pietroclemente92.demetra.TestingActivity$1
+italy/company/pietroclemente92/demetra/UserShopListViewActivity.java
+ italy.company.pietroclemente92.demetra.UserShopListViewActivity
+ italy.company.pietroclemente92.demetra.UserShopListViewActivity$1
+ italy.company.pietroclemente92.demetra.UserShopListViewActivity$2
+ italy.company.pietroclemente92.demetra.UserShopListViewActivity$3
+italy/company/pietroclemente92/demetra/RecupereEmailActivity.java
+ italy.company.pietroclemente92.demetra.RecupereEmailActivity
+ italy.company.pietroclemente92.demetra.RecupereEmailActivity$1
+ italy.company.pietroclemente92.demetra.RecupereEmailActivity$2
+ italy.company.pietroclemente92.demetra.RecupereEmailActivity$2$1
+italy/company/pietroclemente92/demetra/PrivateDashboardActivity.java
+ italy.company.pietroclemente92.demetra.PrivateDashboardActivity
+ italy.company.pietroclemente92.demetra.PrivateDashboardActivity$1
+ italy.company.pietroclemente92.demetra.PrivateDashboardActivity$2
+ italy.company.pietroclemente92.demetra.PrivateDashboardActivity$3
+ italy.company.pietroclemente92.demetra.PrivateDashboardActivity$4
+ italy.company.pietroclemente92.demetra.PrivateDashboardActivity$5
+italy/company/pietroclemente92/demetra/ui/home/HomeFragment.java
+ italy.company.pietroclemente92.demetra.ui.home.HomeFragment
+ italy.company.pietroclemente92.demetra.ui.home.HomeFragment$1
+italy/company/pietroclemente92/demetra/helpers/FeaturedHelperClass.java
+ italy.company.pietroclemente92.demetra.helpers.FeaturedHelperClass
+italy/company/pietroclemente92/demetra/helpers/OtherProductHelperClass.java
+ italy.company.pietroclemente92.demetra.helpers.OtherProductHelperClass

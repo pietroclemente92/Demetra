@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="italy.company.pietroclemente92.demetra">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_demetra"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <activity android:name=".RecupereEmailActivity"></activity>
+        <activity android:name=".UserShopListViewActivity" />
+        <activity android:name=".UserProductListViewActivity" />
+        <activity android:name=".UserSearchProductActivity" />
+        <activity android:name=".UserSearchShopActivity" />
+        <activity
+            android:name=".TestingActivity"
+            android:label="@string/title_activity_testing"
+            android:theme="@style/NoActionBar" />
+        <activity android:name=".UserProductViewActivity" />
+        <activity android:name=".PrivateRemoveProductActivity" />
+        <activity android:name=".PrivateUpdateProductActivity" />
+        <activity android:name=".PrivateProfileActivity" />
+        <activity android:name=".PrivateUpdateViewProductActivity" />
+        <activity android:name=".PrivateAddProductActivity" />
+        <activity android:name=".PrivateCategoriesDashboardActivity" />
+        <activity android:name=".PrivateDashboardActivity" />
+        <activity android:name=".RegisterShopActivity" />
+        <activity android:name=".OnBoardingShoppingAreaActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".SignUpActivity" />
+        <activity android:name=".UserShopViewActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".UserDashboardActivity" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

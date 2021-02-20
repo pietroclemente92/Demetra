@@ -1,0 +1,201 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="italy.company.pietroclemente92.demetra"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->[com.google.firebase:firebase-database:16.0.4] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\549f0c8ce6f090d37c8ba3f8fdc3fb0e\jetified-firebase-database-16.0.4\AndroidManifest.xml:22:5-79
+11-->[com.google.firebase:firebase-database:16.0.4] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\549f0c8ce6f090d37c8ba3f8fdc3fb0e\jetified-firebase-database-16.0.4\AndroidManifest.xml:22:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->[com.google.firebase:firebase-database:16.0.4] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\549f0c8ce6f090d37c8ba3f8fdc3fb0e\jetified-firebase-database-16.0.4\AndroidManifest.xml:23:5-67
+12-->[com.google.firebase:firebase-database:16.0.4] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\549f0c8ce6f090d37c8ba3f8fdc3fb0e\jetified-firebase-database-16.0.4\AndroidManifest.xml:23:22-64
+13
+14    <application
+14-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:5:5-46:19
+15        android:allowBackup="true"
+15-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:6:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.1.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\d73181af5c03e45347bc0c43e24b6758\core-1.1.0\AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:extractNativeLibs="false"
+19        android:icon="@mipmap/ic_launcher_demetra"
+19-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:7:9-51
+20        android:label="@string/app_name"
+20-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:8:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:9:9-54
+22        android:supportsRtl="true"
+22-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:10:9-35
+23        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+23-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:11:9-65
+24        <activity android:name="italy.company.pietroclemente92.demetra.RecupereEmailActivity" />
+24-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:12:9-68
+24-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:12:19-56
+25        <activity android:name="italy.company.pietroclemente92.demetra.UserShopListViewActivity" />
+25-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:13:9-62
+25-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:13:19-59
+26        <activity android:name="italy.company.pietroclemente92.demetra.UserProductListViewActivity" />
+26-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:14:9-65
+26-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:14:19-62
+27        <activity android:name="italy.company.pietroclemente92.demetra.UserSearchProductActivity" />
+27-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:15:9-63
+27-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:15:19-60
+28        <activity android:name="italy.company.pietroclemente92.demetra.UserSearchShopActivity" />
+28-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:16:9-60
+28-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:16:19-57
+29        <activity
+29-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:17:9-20:50
+30            android:name="italy.company.pietroclemente92.demetra.TestingActivity"
+30-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:18:13-44
+31            android:label="@string/title_activity_testing"
+31-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:19:13-59
+32            android:theme="@style/NoActionBar" />
+32-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:20:13-47
+33        <activity android:name="italy.company.pietroclemente92.demetra.UserProductViewActivity" />
+33-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:21:9-61
+33-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:21:19-58
+34        <activity android:name="italy.company.pietroclemente92.demetra.PrivateRemoveProductActivity" />
+34-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:22:9-66
+34-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:22:19-63
+35        <activity android:name="italy.company.pietroclemente92.demetra.PrivateUpdateProductActivity" />
+35-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:23:9-66
+35-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:23:19-63
+36        <activity android:name="italy.company.pietroclemente92.demetra.PrivateProfileActivity" />
+36-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:24:9-60
+36-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:24:19-57
+37        <activity android:name="italy.company.pietroclemente92.demetra.PrivateUpdateViewProductActivity" />
+37-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:25:9-70
+37-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:25:19-67
+38        <activity android:name="italy.company.pietroclemente92.demetra.PrivateAddProductActivity" />
+38-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:26:9-63
+38-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:26:19-60
+39        <activity android:name="italy.company.pietroclemente92.demetra.PrivateCategoriesDashboardActivity" />
+39-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:27:9-72
+39-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:27:19-69
+40        <activity android:name="italy.company.pietroclemente92.demetra.PrivateDashboardActivity" />
+40-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:28:9-62
+40-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:28:19-59
+41        <activity android:name="italy.company.pietroclemente92.demetra.RegisterShopActivity" />
+41-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:29:9-58
+41-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:29:19-55
+42        <activity android:name="italy.company.pietroclemente92.demetra.OnBoardingShoppingAreaActivity" />
+42-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:30:9-68
+42-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:30:19-65
+43        <activity android:name="italy.company.pietroclemente92.demetra.LoginActivity" />
+43-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:31:9-51
+43-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:31:19-48
+44        <activity android:name="italy.company.pietroclemente92.demetra.SignUpActivity" />
+44-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:32:9-52
+44-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:32:19-49
+45        <activity android:name="italy.company.pietroclemente92.demetra.UserShopViewActivity" />
+45-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:33:9-58
+45-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:33:19-55
+46        <activity android:name="italy.company.pietroclemente92.demetra.MainActivity" >
+46-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:34:9-40:20
+46-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:34:19-47
+47            <intent-filter>
+47-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:35:13-39:29
+48                <action android:name="android.intent.action.MAIN" />
+48-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:36:17-69
+48-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:36:25-66
+49
+50                <category android:name="android.intent.category.LAUNCHER" />
+50-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:38:17-77
+50-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:38:27-74
+51            </intent-filter>
+52        </activity>
+53        <activity android:name="italy.company.pietroclemente92.demetra.UserDashboardActivity" />
+53-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:41:9-59
+53-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:41:19-56
+54
+55        <meta-data
+55-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:43:9-45:57
+56            android:name="preloaded_fonts"
+56-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:44:13-43
+57            android:resource="@array/preloaded_fonts" />
+57-->C:\Users\anton\OneDrive\Documenti\Demetra\app\src\main\AndroidManifest.xml:45:13-54
+58
+59        <activity
+59-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\11000fb2e678149642f48d14a5512be7\jetified-firebase-auth-16.0.5\AndroidManifest.xml:24:9-31:50
+60            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+60-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\11000fb2e678149642f48d14a5512be7\jetified-firebase-auth-16.0.5\AndroidManifest.xml:25:13-85
+61            android:excludeFromRecents="true"
+61-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\11000fb2e678149642f48d14a5512be7\jetified-firebase-auth-16.0.5\AndroidManifest.xml:26:13-46
+62            android:exported="true"
+62-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\11000fb2e678149642f48d14a5512be7\jetified-firebase-auth-16.0.5\AndroidManifest.xml:27:13-36
+63            android:launchMode="singleTask"
+63-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\11000fb2e678149642f48d14a5512be7\jetified-firebase-auth-16.0.5\AndroidManifest.xml:28:13-44
+64            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+64-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\11000fb2e678149642f48d14a5512be7\jetified-firebase-auth-16.0.5\AndroidManifest.xml:29:13-102
+65            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+65-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\11000fb2e678149642f48d14a5512be7\jetified-firebase-auth-16.0.5\AndroidManifest.xml:30:13-72
+66
+67        <service
+67-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\11000fb2e678149642f48d14a5512be7\jetified-firebase-auth-16.0.5\AndroidManifest.xml:33:9-39:19
+68            android:name="com.google.firebase.components.ComponentDiscoveryService"
+68-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\11000fb2e678149642f48d14a5512be7\jetified-firebase-auth-16.0.5\AndroidManifest.xml:34:13-84
+69            android:exported="false" >
+69-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\11000fb2e678149642f48d14a5512be7\jetified-firebase-auth-16.0.5\AndroidManifest.xml:35:13-37
+70            <meta-data
+70-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\11000fb2e678149642f48d14a5512be7\jetified-firebase-auth-16.0.5\AndroidManifest.xml:36:13-38:85
+71                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+71-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\11000fb2e678149642f48d14a5512be7\jetified-firebase-auth-16.0.5\AndroidManifest.xml:37:17-109
+72                android:value="com.google.firebase.components.ComponentRegistrar" />
+72-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\11000fb2e678149642f48d14a5512be7\jetified-firebase-auth-16.0.5\AndroidManifest.xml:38:17-82
+73        </service>
+74
+75        <activity
+75-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\39a2498ad898846e315c6c19c1526779\jetified-play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+76            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+76-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\39a2498ad898846e315c6c19c1526779\jetified-play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+77            android:exported="false"
+77-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\39a2498ad898846e315c6c19c1526779\jetified-play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+78            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+78-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\39a2498ad898846e315c6c19c1526779\jetified-play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+79
+80        <provider
+80-->[com.google.firebase:firebase-common:16.0.3] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\bf69b24f57316ed74d1776bb5fab0158\jetified-firebase-common-16.0.3\AndroidManifest.xml:10:9-14:39
+81            android:name="com.google.firebase.provider.FirebaseInitProvider"
+81-->[com.google.firebase:firebase-common:16.0.3] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\bf69b24f57316ed74d1776bb5fab0158\jetified-firebase-common-16.0.3\AndroidManifest.xml:11:13-77
+82            android:authorities="italy.company.pietroclemente92.demetra.firebaseinitprovider"
+82-->[com.google.firebase:firebase-common:16.0.3] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\bf69b24f57316ed74d1776bb5fab0158\jetified-firebase-common-16.0.3\AndroidManifest.xml:12:13-72
+83            android:exported="false"
+83-->[com.google.firebase:firebase-common:16.0.3] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\bf69b24f57316ed74d1776bb5fab0158\jetified-firebase-common-16.0.3\AndroidManifest.xml:13:13-37
+84            android:initOrder="100" />
+84-->[com.google.firebase:firebase-common:16.0.3] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\bf69b24f57316ed74d1776bb5fab0158\jetified-firebase-common-16.0.3\AndroidManifest.xml:14:13-36
+85
+86        <meta-data
+86-->[com.google.android.gms:play-services-basement:16.1.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\e5ddb13eb9bed617128bce1835e96adc\jetified-play-services-basement-16.1.0\AndroidManifest.xml:23:9-25:69
+87            android:name="com.google.android.gms.version"
+87-->[com.google.android.gms:play-services-basement:16.1.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\e5ddb13eb9bed617128bce1835e96adc\jetified-play-services-basement-16.1.0\AndroidManifest.xml:24:13-58
+88            android:value="@integer/google_play_services_version" />
+88-->[com.google.android.gms:play-services-basement:16.1.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\e5ddb13eb9bed617128bce1835e96adc\jetified-play-services-basement-16.1.0\AndroidManifest.xml:25:13-66
+89
+90        <provider
+90-->[com.squareup.picasso:picasso:2.71828] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\71b1bc1a60841afd08db7bbc835260e0\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+91            android:name="com.squareup.picasso.PicassoProvider"
+91-->[com.squareup.picasso:picasso:2.71828] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\71b1bc1a60841afd08db7bbc835260e0\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+92            android:authorities="italy.company.pietroclemente92.demetra.com.squareup.picasso"
+92-->[com.squareup.picasso:picasso:2.71828] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\71b1bc1a60841afd08db7bbc835260e0\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+93            android:exported="false" />
+93-->[com.squareup.picasso:picasso:2.71828] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\71b1bc1a60841afd08db7bbc835260e0\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+94        <provider
+94-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\9e9e35da9332a6637211094f8736a488\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+95            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+95-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\9e9e35da9332a6637211094f8736a488\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+96            android:authorities="italy.company.pietroclemente92.demetra.lifecycle-process"
+96-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\9e9e35da9332a6637211094f8736a488\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+97            android:exported="false"
+97-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\9e9e35da9332a6637211094f8736a488\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+98            android:multiprocess="true" />
+98-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\9e9e35da9332a6637211094f8736a488\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+99    </application>
+100
+101</manifest>

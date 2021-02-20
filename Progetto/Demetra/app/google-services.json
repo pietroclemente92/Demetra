@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1063411419370",
+    "firebase_url": "https://mangakaplanet-18a74.firebaseio.com",
+    "project_id": "mangakaplanet-18a74",
+    "storage_bucket": "mangakaplanet-18a74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063411419370:android:a5c6c872ce00cefc106f93",
+        "android_client_info": {
+          "package_name": "italy.company.pietroclemente92.demetra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063411419370-a3hn0k9785o4n2i8u35u1p3pmjq4u9ck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "italy.company.pietroclemente92.demetra",
+            "certificate_hash": "c1f9076f38d605535aad1c0030944a35059c3af2"
+          }
+        },
+        {
+          "client_id": "1063411419370-5sqjl55r4roku6lqqqsej89qu28njkm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOPjcBeRhE4y5ZmEZq0GMrLifyN8B5ps8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063411419370-5sqjl55r4roku6lqqqsej89qu28njkm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
